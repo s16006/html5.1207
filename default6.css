@@ -1,0 +1,13 @@
+/*
+擬似クラス
+
+*/
+
+/*p:first-of-type pの初めの要素*/
+/*p:last-of-type pの最後要素*/
+/*p:nth-of-type(3)  +演算も可能*/
+/*p:nth-last-of-type(4)  最後から数えて*/
+/*h2:only-of-type 要素が１つだけ反応*/
+{
+	background: violet;
+}

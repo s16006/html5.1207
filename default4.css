@@ -1,0 +1,18 @@
+/*
+ 属性セレクタ
+
+- a[href]
+- a[href="foo"]
+- a[jref~="foo"]
+
+- a[href^="foo"] fooから始まる
+- a[href$="foo"] fooで終わる
+- a[href*="foo"] fooを含む
+
+*/
+
+/*a[href^="http"] { color:orange; }*/
+
+/*a[href$=".com"] { color:orange; }*/
+
+/*a[href*=".co.jp"] { color:orange; }*/
